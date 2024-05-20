@@ -1,6 +1,6 @@
 # Prompt-Engineering-For-Vision-Models
 
-This repository contains code for tasks focusing on prompt engineering for vision models. Each task explores different aspects of image segmentation and object detection using advanced machine learning models. Below are detailed descriptions of the tasks and their respective notebooks.
+This repository contains code for tasks focusing on prompt engineering for vision models. Each task explores different aspects of image segmentation, object detection, and image generation using advanced machine learning models. Below are detailed descriptions of the tasks and their respective notebooks.
 
 
 ### 1. Image Segmentation Using Point and Bounding Box
