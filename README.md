@@ -2,7 +2,7 @@
 
 This repository contains code for tasks focusing on prompt engineering for vision models. Each task explores different aspects of image segmentation, object detection, and image generation using advanced machine learning models. Below are detailed descriptions of the tasks and their respective notebooks.
 
-![](segmented mask.png)
+![](segmented_mask.png)
 
 ### 1. Image Segmentation Using Point and Bounding Box
 
